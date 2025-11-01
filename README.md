@@ -1,6 +1,5 @@
 # White Box - Supervised ML Project  
-**Name:** [Your Full Name]  
-**Institution:** [Your Institution Name]  
+**Name:** Abdulrahman Abdulla Alali    
 **Date:** November 2025  
 
 ---
